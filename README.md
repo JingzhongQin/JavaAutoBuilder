@@ -1,29 +1,14 @@
-# README #
+# JavaAutoTester #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+JavaAutoTester is a tool which can download a given Java project, which uses Maven or Gradle, on GitHub and run all tests within the project.
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+You will need to download and set up Java, Maven and Gradle to use this tool.
 
-### Contribution guidelines ###
+See links below on how to install all 3 programs:
 
-* Writing tests
-* Code review
-* Other guidelines
+* [Install Java tutorial](https://www.youtube.com/watch?v=Uz13RXDpvDM)
+* [Install Maven tutorial](https://www.youtube.com/watch?v=RfCWg5ay5B0&t)
+* [Install Gradle tutorial](https://www.youtube.com/watch?v=C55i2OHKYMc)
 
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact

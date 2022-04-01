@@ -24,3 +24,4 @@ To setup the global envoirment:
 
 To see if everything is setup correctly, open your Command Line Interface and type 
 ```JavaAutoTester [GitHub repository link]```.
+Test

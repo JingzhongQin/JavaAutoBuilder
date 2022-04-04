@@ -4,8 +4,11 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 
+//Run batch files to build a Maven/Gradle/Ant project
 public class BatchFileRunner {
+
     BatchFileRunner(){}
+
     public void execute(String batchFile){
         Process p = null;
 

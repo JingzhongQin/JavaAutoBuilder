@@ -47,7 +47,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.dt002g.JavaAutoTester</mainClass>
+                            <mainClass>com.dt002g.JavaAutoBuilder</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>

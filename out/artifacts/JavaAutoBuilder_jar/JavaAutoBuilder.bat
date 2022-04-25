@@ -2,4 +2,4 @@
 cd %~dp0\
 
 @echo on
-java -jar JavaAutoBuilder.jar %1Ja
+java -jar JavaAutoBuilder.jar %1

@@ -240,7 +240,8 @@ https://github.com/jfinal/jfinal.git
 https://github.com/WritingMinds/ffmpeg-android-java.git
 https://github.com/anggrayudi/android-hidden-api.git
 https://github.com/oshi/oshi.git
-https://github.com/apache/nifi.githttps://github.com/uber/NullAway.git
+https://github.com/apache/nifi.git
+https://github.com/uber/NullAway.git
 https://github.com/immutables/immutables.git
 https://github.com/requery/requery.git
 https://github.com/guoguibing/librec.git

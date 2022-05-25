@@ -6,7 +6,7 @@ has, regarding Ant project, JavaAutoBuilder only executes the tasks in the defau
 
 ### How do I get set up? ###
 
-You will need to download and set up Java, Maven, Ant, and Gradle to use this tool.
+You will need to download and set up Java 17, Maven, Ant, and Gradle to use this tool.
 
 See links below on how to install all 4 programs:
 
